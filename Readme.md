@@ -7,6 +7,8 @@ Features:
 * Supports multiRef SOAP messages (thanks to [@kaven276](https://github.com/kaven276))
 * Support for both synchronous and asynchronous method handlers
 * WS-Security (currently only UsernameToken and PasswordText encoding is supported)
+* Slightly improved ability to handle SAP SOAP WSDLS
+  1. Sequences nest a collection of <item> objects beneath the parent object, instead of a collection of parent objects
 
 ## Install
 
