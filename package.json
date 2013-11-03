@@ -12,7 +12,7 @@
   "dependencies": {
     "node-expat": ">=1.6.1",
     "request": ">=2.9.0",
-    "httpntlm": "https://github.com/btallman/node-http-ntlm.git"
+    "httpntlm": "https://github.com/btallman/node-http-ntlm/archive/v.9-alpha.tar.gz"
   },
   "repository": {
     "type": "git",
